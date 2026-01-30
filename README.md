@@ -1,7 +1,3 @@
-# S&P 500 Ticker Fetcher
-
-A lightweight Python script to fetch the current list of S&P 500 constituent tickers.
-
 ## What It Does
 - Scrapes the official table from [Wikipedia's List of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 - Extracts only the ticker symbols (e.g., `AAPL`, `MSFT`).
